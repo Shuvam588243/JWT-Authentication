@@ -17,7 +17,8 @@
     "nodemon": "^2.0.12"
   },
   "scripts": {
-    "dev": "npx nodemon app"
+    "dev": "npx nodemon app",
+    "prod" : "node app"
   },
   "repository": {
     "type": "git",

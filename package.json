@@ -18,7 +18,7 @@
   },
   "scripts": {
     "dev": "npx nodemon app",
-    "prod" : "node app"
+    "start" : "node app"
   },
   "repository": {
     "type": "git",
